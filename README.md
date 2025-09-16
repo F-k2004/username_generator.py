@@ -1,5 +1,5 @@
 # username_generator.py
-import rando
+import random
 
 adjectives = ["Cool", "Happy", "Fast", "Smart", "Brave", "Epic", "Lazy", "Lucky"]
 nouns = ["Tiger", "Ninja", "Coder", "Gamer", "Wizard", "Samurai", "Dragon", "Hero"]
